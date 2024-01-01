@@ -5,3 +5,4 @@ change made by user 1
 merge
 merge2
 merge by user2
+another merge by user2
