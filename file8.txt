@@ -6,3 +6,4 @@ merge
 merge2
 merge by user1
 2nd merge by user1
+3rd merge by user1
