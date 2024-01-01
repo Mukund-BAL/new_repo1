@@ -1,3 +1,4 @@
 file.
 changes from user2....
 fetch
+merge by user2
