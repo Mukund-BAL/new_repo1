@@ -1,3 +1,6 @@
 file.
 changes from user2....
 fetch
+merge by user2
+2nd merge by user2
+3rd merge by user2
