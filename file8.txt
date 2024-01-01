@@ -4,3 +4,4 @@ latest change made by user2
 change made by user 1
 merge
 merge2
+merge by user1
